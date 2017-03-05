@@ -1,12 +1,12 @@
 # Linux-Server-Configuration
 
--IP Address: 54.173.188.9
--Port: 2200
--URL: ec2-54-173-188-9.compute-1.amazonaws.com
+- IP Address: 54.173.188.9
+- Port: 2200
+- URL: ec2-54-173-188-9.compute-1.amazonaws.com
 
 # To update server
-sudo apt-get update
-sudo apt-get upgrade
+- sudo apt-get update
+- sudo apt-get upgrade
 
 # Software installed to run flask application
 -postgresql
