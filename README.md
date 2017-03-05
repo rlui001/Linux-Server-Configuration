@@ -9,17 +9,17 @@ sudo apt-get update
 sudo apt-get upgrade
 
 # Software installed to run flask application
-postgresql
-psycopg2
-flask
-requests
-oauth2client
-sqlalchemy
-pip
-virtualenv (although not used)
-git
-mod_wsgi
-apache2
+-postgresql
+-psycopg2
+-flask
+-requests
+-oauth2client
+-sqlalchemy
+-pip
+-virtualenv (although not used)
+-git
+-mod_wsgi
+-apache2
 
 # Configuration changes made
 - Changed SSH port from 22 to 2200
@@ -32,10 +32,10 @@ apache2
 
 
 # Third-party resources 
-stackoverflow.com - Troubleshooting tasks such as import errors, linux commands, git cloning
-askubuntu.com - Setting timezone, problems with fetching archives(apt-get update errors)
-linode.com - Setting up apache and modwsgi on Ubuntu, configurations
-jakowicz.com - More information on setting up an apache web server that runs flask applications, wsgi configurations
-hcidata.info - Used to convert IP Address to host name/url
-dabapps.com - Pip and virtualenv information, installation guide
-postgresql.org / tutorialspoint.com - Tutorials and documentation on setting up postgresql, database, user/permissions
+-stackoverflow.com - Troubleshooting tasks such as import errors, linux commands, git cloning
+-askubuntu.com - Setting timezone, problems with fetching archives(apt-get update errors)
+-linode.com - Setting up apache and modwsgi on Ubuntu, configurations
+-jakowicz.com - More information on setting up an apache web server that runs flask applications, wsgi configurations
+-hcidata.info - Used to convert IP Address to host name/url
+-dabapps.com - Pip and virtualenv information, installation guide
+-postgresql.org / tutorialspoint.com - Tutorials and documentation on setting up postgresql, database, user/permissions
