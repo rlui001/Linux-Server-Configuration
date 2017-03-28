@@ -3,6 +3,7 @@
 - IP Address: 54.173.188.9
 - Port: 2200
 - URL: ec2-54-173-188-9.compute-1.amazonaws.com
+- NO LONGER WORKING; SHUT DOWN
 
 # To update server
 - sudo apt-get update
